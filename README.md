@@ -11,7 +11,7 @@ $ npm install --global @fullstackio/cqmd
 ## Usage
 
 ```
-$ cq --path <path/to/code/basepath> <input-markdown-file>
+$ cqmd --path <path/to/code/basepath> <input-markdown-file>
 
 # or
 
